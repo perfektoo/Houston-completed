@@ -1,0 +1,42 @@
+body {
+  margin: auto;
+
+  max-width: 70%;
+}
+h1,
+h2,
+h3 {
+  font-family: sans-serif;
+
+  margin-top: 1.5em;
+
+  margin-bottom: 0.5em;
+}
+h1 {
+  font-size: 32px;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+figcaption {
+  font-style: italic;
+}
+
+figure {
+  float: right;
+  margin: 16px 0px 10px 10px;
+}
+
+.Samuel {
+  width: 160px;
+  height: 170px;
+}
+
+.ethnic {
+  width: 180px;
+  height: 180px;
+}
